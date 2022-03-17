@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/index.html</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/categories.html</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/product-page.html</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/shopping-cart.html</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/check-out.html</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://annaivanova19.github.io/repo-name/contact.html</loc>
+  <lastmod>2022-02-27T11:47:41+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
